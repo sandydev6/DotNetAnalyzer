@@ -1,0 +1,15 @@
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.CodeFixes\bin\Debug\netstandard2.0\Analyzer1.CodeFixes.deps.json
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.CodeFixes\bin\Debug\netstandard2.0\Analyzer1.CodeFixes.dll
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.CodeFixes\bin\Debug\netstandard2.0\Analyzer1.CodeFixes.pdb
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.CodeFixes\bin\Debug\netstandard2.0\Analyzer1.dll
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.CodeFixes\bin\Debug\netstandard2.0\Analyzer1.pdb
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.CodeFixes\obj\Debug\netstandard2.0\Analyzer1.CodeFixes.csproj.AssemblyReference.cache
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.CodeFixes\obj\Debug\netstandard2.0\Analyzer1.CodeFixResources.resources
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.CodeFixes\obj\Debug\netstandard2.0\Analyzer1.CodeFixes.csproj.GenerateResource.cache
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.CodeFixes\obj\Debug\netstandard2.0\Analyzer1.CodeFixes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.CodeFixes\obj\Debug\netstandard2.0\Analyzer1.CodeFixes.AssemblyInfoInputs.cache
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.CodeFixes\obj\Debug\netstandard2.0\Analyzer1.CodeFixes.AssemblyInfo.cs
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.CodeFixes\obj\Debug\netstandard2.0\Analyzer1.CodeFixes.csproj.CoreCompileInputs.cache
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.CodeFixes\obj\Debug\netstandard2.0\Analyzer1.CodeFixes.csproj.CopyComplete
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.CodeFixes\obj\Debug\netstandard2.0\Analyzer1.CodeFixes.dll
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.CodeFixes\obj\Debug\netstandard2.0\Analyzer1.CodeFixes.pdb

@@ -1,0 +1,17 @@
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.Package\bin\Debug\netstandard2.0\tools\install.ps1
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.Package\bin\Debug\netstandard2.0\tools\uninstall.ps1
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.Package\bin\Debug\netstandard2.0\Analyzer1.Package.deps.json
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.Package\bin\Debug\netstandard2.0\Analyzer1.Package.dll
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.Package\bin\Debug\netstandard2.0\Analyzer1.Package.pdb
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.Package\bin\Debug\netstandard2.0\Analyzer1.CodeFixes.dll
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.Package\bin\Debug\netstandard2.0\Analyzer1.dll
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.Package\bin\Debug\netstandard2.0\Analyzer1.CodeFixes.pdb
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.Package\bin\Debug\netstandard2.0\Analyzer1.pdb
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.Package\obj\Debug\netstandard2.0\Analyzer1.Package.csproj.AssemblyReference.cache
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.Package\obj\Debug\netstandard2.0\Analyzer1.Package.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.Package\obj\Debug\netstandard2.0\Analyzer1.Package.AssemblyInfoInputs.cache
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.Package\obj\Debug\netstandard2.0\Analyzer1.Package.AssemblyInfo.cs
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.Package\obj\Debug\netstandard2.0\Analyzer1.Package.csproj.CoreCompileInputs.cache
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.Package\obj\Debug\netstandard2.0\Analyzer1.Package.csproj.CopyComplete
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.Package\obj\Debug\netstandard2.0\Analyzer1.Package.dll
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1.Package\obj\Debug\netstandard2.0\Analyzer1.Package.pdb

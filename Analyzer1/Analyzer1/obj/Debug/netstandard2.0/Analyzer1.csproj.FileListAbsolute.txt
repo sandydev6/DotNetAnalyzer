@@ -1,0 +1,11 @@
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1\bin\Debug\netstandard2.0\Analyzer1.deps.json
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1\bin\Debug\netstandard2.0\Analyzer1.dll
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1\bin\Debug\netstandard2.0\Analyzer1.pdb
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard2.0\Analyzer1.Resources.resources
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard2.0\Analyzer1.csproj.GenerateResource.cache
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard2.0\Analyzer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard2.0\Analyzer1.AssemblyInfoInputs.cache
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard2.0\Analyzer1.AssemblyInfo.cs
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard2.0\Analyzer1.csproj.CoreCompileInputs.cache
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard2.0\Analyzer1.dll
+C:\Users\santhanaraman.sivasa\source\repos\Analyzer1\Analyzer1\Analyzer1\obj\Debug\netstandard2.0\Analyzer1.pdb

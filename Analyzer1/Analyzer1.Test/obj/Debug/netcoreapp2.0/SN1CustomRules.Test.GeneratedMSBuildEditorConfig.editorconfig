@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = SN1CustomRules.Test
+build_property.ProjectDir = D:\SN1CustomRule\Analyzer1\Analyzer1.Test\
